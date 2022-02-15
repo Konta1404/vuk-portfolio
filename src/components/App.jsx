@@ -12,8 +12,8 @@ const App = () => {
                 <div className="border-y border-white">
                     <div id='rssBlock'>
                         <p class="cnnContents">
-                            <span class="marqueeStyle">&nbsp;under construction * under construction * under construction * under construction * under construction * under construction *</span>
-                                <span class="marqueeStyle2">&nbsp;under construction * under construction * under construction * under construction * under construction * under construction *</span>
+                            <span class="marqueeStyle font-title">&nbsp;under construction * under construction * under construction * under construction * under construction * under construction *</span>
+                                <span class="marqueeStyle2 font-title">&nbsp;under construction * under construction * under construction * under construction * under construction * under construction *</span>
                             </p>
                      </div>
                 </div>]

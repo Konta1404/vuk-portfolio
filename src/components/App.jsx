@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import UnderConstruction from "./UnderConstruction/UnderConstruction";
 import './UnderConstruction/under-construction.css';
 

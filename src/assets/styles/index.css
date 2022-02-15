@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("/src/assets/fonts/NeueMontreal-Regular.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Woodland";
+  src: url("/src/assets/fonts/PPWoodland-Bold.woff") format("woff");
+  font-weight: 700;
+}

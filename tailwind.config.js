@@ -13,7 +13,7 @@ module.exports = {
       }
     },
     fontFamily: {
-      title: ['Woodland'],
+      title: ['Zodiak-Regular'],
       description: ['NeueMontreal']
     }
   },

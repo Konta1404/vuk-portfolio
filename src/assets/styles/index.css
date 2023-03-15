@@ -13,3 +13,10 @@
   src: url("/src/assets/fonts/PPWoodland-Bold.woff") format("woff");
   font-weight: 700;
 }
+@font-face {
+  font-family: "Zodiak-Regular";
+  src: url("/src/assets/fonts/Zodiak-Regular.woff") format("woff");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
